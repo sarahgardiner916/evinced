@@ -1,6 +1,4 @@
 node_modules/
 .env
 .npmrc
-test-results/
 playwright-report/
-evincedReports/
